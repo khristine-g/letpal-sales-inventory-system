@@ -61,7 +61,7 @@ function Dashboard() {
   return (
     <>
       <PageHeader
-        title="Good evening, Khristine"
+        title="Good evening, Stella"
         description={`Overview for ${range.label.toLowerCase()} · ${fmtDate(range.from.toISOString())} – ${fmtDate(range.to.toISOString())}`}
         actions={
           <>
