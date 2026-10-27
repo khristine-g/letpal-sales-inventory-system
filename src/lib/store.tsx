@@ -19,7 +19,7 @@ export interface Settings {
 }
 
 const defaultSettings: Settings = {
-  name: "Khristine Githige",
+  name: "Stella Wambui",
   email: "admin@letpal.demo",
   phone: "+254 700 000 000",
   role: "Administrator",
